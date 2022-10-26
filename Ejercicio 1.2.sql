@@ -1,0 +1,1 @@
+select NOMBRE,PRECIO from articulos;

@@ -1,0 +1,1 @@
+select distinct apellidos from empleados;

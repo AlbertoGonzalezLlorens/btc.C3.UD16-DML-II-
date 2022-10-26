@@ -1,0 +1,1 @@
+select * from articulos where PRECIO>=60 and PRECIO<=120;

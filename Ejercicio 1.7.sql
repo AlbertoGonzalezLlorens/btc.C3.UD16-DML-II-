@@ -1,0 +1,1 @@
+select avg(PRECIO) from articulos where FABRICANTE = 2;

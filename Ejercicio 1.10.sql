@@ -1,0 +1,1 @@
+select * from articulos inner join fabricantes on articulos.fabricante = fabricantes.CODIGO order by articulos.CODIGO asc;

@@ -1,0 +1,1 @@
+select NOMBRE,PRECIO*166.368 as PRECIO_PESETAS from articulos;
