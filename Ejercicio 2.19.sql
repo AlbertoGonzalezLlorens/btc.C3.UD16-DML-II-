@@ -1,0 +1,1 @@
+delete from empleados where departamento = (select codigo from departamentos where presupuesto > 60000);

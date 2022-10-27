@@ -1,0 +1,1 @@
+select cajas.numreferencia as numero_de_referencia,almacenes.lugar from cajas,almacenes where cajas.almacen=almacenes.codigo;

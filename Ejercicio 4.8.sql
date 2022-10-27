@@ -1,0 +1,1 @@
+insert into peliculas(codigo,nombre,calificacionedad) values (11,'Uno,Dos,Tres','7');

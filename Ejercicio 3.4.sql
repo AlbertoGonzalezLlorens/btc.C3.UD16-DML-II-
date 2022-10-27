@@ -1,0 +1,1 @@
+select avg(valor) from cajas;

@@ -1,0 +1,1 @@
+update departamento set presupuesto = presupuesto *0.9;

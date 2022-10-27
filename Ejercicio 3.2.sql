@@ -1,0 +1,1 @@
+select * from cajas where valor > 150;

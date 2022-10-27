@@ -1,0 +1,1 @@
+select * from salas right join peliculas on peliculas.codigo = salas.pelicula;

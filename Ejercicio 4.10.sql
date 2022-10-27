@@ -1,0 +1,1 @@
+delete from salas where salas.pelicula in (select peliculas.codigo from peliculas where peliculas.calificacionedad = 'G');
